@@ -87,7 +87,7 @@
 <h3 align="center">📫 联系我 | Connect with Me</h3>
 <p align="center">
   <a href="1994104357@qq.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/1994104357@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="#">
   <img alt="WeChat" src="https://img.shields.io/badge/15884357463-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
