@@ -6,9 +6,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha0924&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+
 
 <h3 align="center">🛠️ 技术栈 | Tech Stack</h3>
 
