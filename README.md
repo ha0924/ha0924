@@ -11,11 +11,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ha0924?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ha0924&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="ha0924's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ha0924&theme=radical&hide_border=true" alt="ha0924's streak stats" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha0924&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
@@ -109,13 +104,10 @@
 
 <!-- 你可以在这里添加你的精选项目 -->
 <p align="center">
-  <a href="https://github.com/ha0924/your-project-1">
+  <a href="https://github.com/ha0924/-Drools-.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ha0924&repo=your-project-1&theme=radical" />
   </a>
-  <a href="https://github.com/ha0924/your-project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ha0924&repo=your-project-2&theme=radical" />
-  </a>
-</p>
+ 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ha0924&label=Profile%20views&color=0e75b6&style=flat" alt="ha0924" />
