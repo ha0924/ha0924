@@ -1,6 +1,6 @@
 # Hi 👋, I'm Assby
 
-### 🤖 Agent Engineer | AI Application Developer
+### 🤖 Agent Engineer | Backend Developer | AI Application Developer
 
 - 🎓 **Undergraduate** @ Chengdu University of Technology (CDUT)
 - 💼 **AI Application Development Intern** @ 360 Group
@@ -23,8 +23,8 @@
 
 
 
-
 ### 🛠️ Core Focus:
+![Backend](https://img.shields.io/badge/Backend-Development-orange?style=flat-square&logo=spring)
 ![AI](https://img.shields.io/badge/AI-Application_Development-blue?style=flat-square&logo=openai)
 ![Agent](https://img.shields.io/badge/Agent-Paradigms-black?style=flat-square&logo=langchain)
 ![Human-Centric](https://img.shields.io/badge/Focus-Humanistic_Care-red?style=flat-square)
