@@ -21,11 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ha0924&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777" width="400" alt="Assby's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha0924&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=777" width="300" alt="Assby's Top Languages" />
-</p>
 
 ---
 
