@@ -3,7 +3,7 @@
 ### 🤖 Agent Engineer | Backend Developer | AI Application Developer
 
 - 🎓 **Undergraduate** @ Chengdu University of Technology (CDUT)
-- 💼 **AI Application Development Intern** @ Tencent (Tencent Meeting)
+- 💼 **Development Intern** @ Tencent (Tencent Meeting)
 - 🚀 Exploring the frontiers of **AI Applications** and **Agent Paradigms**
 - 📱 Extending expertise into **iOS Client-Side Development** (Objective-C, UIKit, MVVM)
 - 🌱 *“Striving to become a truly valuable developer with a deep commitment to humanistic care.”*
