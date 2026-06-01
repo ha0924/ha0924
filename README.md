@@ -3,8 +3,9 @@
 ### 🤖 Agent Engineer | Backend Developer | AI Application Developer
 
 - 🎓 **Undergraduate** @ Chengdu University of Technology (CDUT)
-- 💼 **AI Application Development Intern** @ 360 Group
+- 💼 **AI Application Development Intern** @ Tencent (Tencent Meeting)
 - 🚀 Exploring the frontiers of **AI Applications** and **Agent Paradigms**
+- 📱 Extending expertise into **iOS Client-Side Development** (Objective-C, UIKit, MVVM)
 - 🌱 *“Striving to become a truly valuable developer with a deep commitment to humanistic care.”*
 
 ---
@@ -25,6 +26,7 @@
 
 ### 🛠️ Core Focus:
 ![Backend](https://img.shields.io/badge/Backend-Development-orange?style=flat-square&logo=spring)
+![Client-Side](https://img.shields.io/badge/Client--Side-iOS%20%2F%20UIKit-lightgrey?style=flat-square&logo=apple)
 ![AI](https://img.shields.io/badge/AI-Application_Development-blue?style=flat-square&logo=openai)
 ![Agent](https://img.shields.io/badge/Agent-Paradigms-black?style=flat-square&logo=langchain)
 ![Human-Centric](https://img.shields.io/badge/Focus-Humanistic_Care-red?style=flat-square)
